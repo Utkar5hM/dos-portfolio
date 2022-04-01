@@ -132,7 +132,7 @@ body {
   background-color: black;
   color: white;
   font-family: 'VT323', monospace;
-  font-size: 1.5vw;
+  font-size: 25px;
 }
 
 .nav-bar {
@@ -149,4 +149,14 @@ img {
 .name {
   font-size: 2rem;
 }
+@media (max-width: 968px) {
+  body {
+    font-size: 15px;
+  }
+}
 
+@media (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+}
