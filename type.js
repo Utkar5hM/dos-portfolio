@@ -2,7 +2,7 @@
 var aText = new Array(
   '[    0.604303] Name: Utkarsh M',
   '[    0.605392] Date Of Birth: 25th October 2001',
-  '[    0.605752] Institute: National Institute of Technology of Karnataka, Surathkal',
+  '[    0.605752] Institute: National Institute of Technology Karnataka, Surathkal',
   '[    0.606097] Degree: Btech in Electronics and Communication Engineering',
   '[    0.606518] Interests: NULL',
   '[    0.606934] LinkedIn Profile: <a href="https://www.linkedin.com/in/utkar5hm/">/Utkar5hM</a>',
