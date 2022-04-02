@@ -11,6 +11,7 @@ var aText = new Array(
   '[    0.608222] Facebook Profile: <a href="https://www.facebook.com/utkar5hM">/Utkar5hM</a>',
   '[    0.608536] TryhackMe Profile: <a href="https://tryhackme.com/p/Utkar5hM">/Utkar5hM</a>',
   '[    0.609248] Resume: <a href="https://drive.google.com/file/d/1KysZ3em_MnaoHLARkG8zhSQGfn3uHFE1/view?usp=sharing">Gdrive Link</a>',
+  '[    0.609782] Contact me at: <a href="mailto:utkarshrm568@gmail.com">utkarshrm568@gmail.com</a>',
 );
 var iSpeed = 10; // time delay of print out
 var iIndex = 0; // start printing array at this posision
