@@ -160,3 +160,10 @@ img {
     font-size: 15px;
   }
 }
+
+a {
+  color: skyblue;
+}
+a:hover{
+  color: whitesmoke;
+}
