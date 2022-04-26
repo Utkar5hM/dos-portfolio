@@ -9,8 +9,9 @@ var aText = new Array(
   '[    0.607323] Github Profile: <a href="https://github.com/Utkar5hM">@Utkar5hM</a>',
   '[    0.607774] Instagram Profile: <a href="https://www.instagram.com/utkar5hm/">@Utkar5hM</a>',
   '[    0.608222] Facebook Profile: <a href="https://www.facebook.com/utkar5hM">/Utkar5hM</a>',
-  '[    0.608536] TryhackMe Profile: <a href="https://tryhackme.com/p/Utkar5hM">/Utkar5hM</a>',
-  '[    0.609248] Resume: <a href="https://drive.google.com/file/d/1KysZ3em_MnaoHLARkG8zhSQGfn3uHFE1/view?usp=sharing">Gdrive Link</a>',
+  '[    0.608340] Youtube Channel: <a href="https://www.youtube.com/channel/UCTA5vSw4kZs04TqCw6nDAMg">Utkarsh M</a>',
+  '[    0.608736] TryhackMe Profile: <a href="https://tryhackme.com/p/Utkar5hM">/Utkar5hM</a>',
+  '[    0.609248] Resume: <a href="https://drive.google.com/file/d/1ePUmQTnzjYjPGsj8lW1UvMeEjgZ0zp2G/view?usp=sharing">Gdrive Link</a>',
   '[    0.609782] Contact me at: <a href="mailto:utkarshrm568@gmail.com">utkarshrm568@gmail.com</a>',
 );
 var iSpeed = 10; // time delay of print out
