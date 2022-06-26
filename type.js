@@ -11,10 +11,10 @@ var aText = new Array(
   '[    0.608222] Facebook Profile: <a href="https://www.facebook.com/utkar5hM">/Utkar5hM</a>',
   '[    0.608340] Youtube Channel: <a href="https://www.youtube.com/channel/UCTA5vSw4kZs04TqCw6nDAMg">Utkarsh M</a>',
   '[    0.608736] TryhackMe Profile: <a href="https://tryhackme.com/p/Utkar5hM">/Utkar5hM</a>',
+  '[    0.608746] Medium Profile: <a href="https://medium.com/@utkar5hm">/Utkar5hM</a>',
   '[    0.609248] Resume: <a href="https://drive.google.com/file/d/1ePUmQTnzjYjPGsj8lW1UvMeEjgZ0zp2G/view?usp=sharing">Gdrive Link</a>',
-  '[    0.609782] Contact me at: <a href="mailto:utkarshrm568@gmail.com">utkarshrm568@gmail.com</a>',
 );
-var iSpeed = 10; // time delay of print out
+var iSpeed = 1; // time delay of print out
 var iIndex = 0; // start printing array at this posision
 var iArrLength = aText[0].length; // the length of the text array
 var iScrollAt = 20; // start scrolling up at this many lines
@@ -37,7 +37,7 @@ function typewriter() {
     iIndex++;
     if (iIndex != aText.length) {
       iArrLength = aText[iIndex].length;
-      setTimeout('typewriter()', 100);
+      setTimeout('typewriter()', 15);
     }
   } else {
     setTimeout('typewriter()', iSpeed);
