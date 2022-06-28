@@ -106,7 +106,7 @@ section {
   display: block;
 }
 body {
-  line-height: 1;
+  line-height: 1.5;
 }
 ol,
 ul {
@@ -131,8 +131,8 @@ table {
 body {
   background-color: black;
   color: white;
-  font-family: 'VT323', monospace;
-  font-size: 25px;
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 16px;
 }
 
 .nav-bar {
