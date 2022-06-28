@@ -12,7 +12,7 @@ var aText = new Array(
   '[    0.608340] Youtube Channel: <a href="https://www.youtube.com/channel/UCTA5vSw4kZs04TqCw6nDAMg">Utkarsh M</a>',
   '[    0.608736] TryhackMe Profile: <a href="https://tryhackme.com/p/Utkar5hM">/Utkar5hM</a>',
   '[    0.608746] Medium Profile: <a href="https://medium.com/@utkar5hm">/Utkar5hM</a>',
-  '[    0.609248] Resume: <a href="https://drive.google.com/file/d/1ePUmQTnzjYjPGsj8lW1UvMeEjgZ0zp2G/view?usp=sharing">Gdrive Link</a>',
+  '[    0.609248] Resume: <a href="https://drive.google.com/drive/folders/1h34oaLfqFc5VKA0_lWYup3R-gTgGr_iv?usp=sharing">Gdrive Link</a>',
 );
 var iSpeed = 1; // time delay of print out
 var iIndex = 0; // start printing array at this posision
