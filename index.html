@@ -59,6 +59,7 @@
             </ul>
             </div>
             <br>
+            <hr>
             <h1>Experience:</h1> <br>
             <div class="Projects mx-3">
               <ul>
@@ -127,6 +128,16 @@
             <h1>Projects:</h1> <br>
             <div class="Projects mx-3">
               <ul>
+                <li>Network Interface Card on a FPGA (Jan-Mar 2024): <a href="#">Link Soon</a>
+                  <span class="">
+                    <ul style="list-style-type: '‣ ';padding-inline-start: 2ch;">
+                      <li>Implemented a Network Interface card in Verilog for a Nexys 4 DDR FPGA, allowing users to do custom offloading to the NIC easily.</li>
+                      <li>Utilized scapy, linux namespaces and virtual ethernet Interfaces for Packet sniffing and injection, bypassing the need of writing drivers on the host system</li>
+                      <li>Used Microblaze as a base core processor on FPGA making it easier to receive and send raw packets with as well as write custom logic for offloading such as a firewall.</li>
+                      <li>Implemented custom TCAM-IP with an AXI interface for Nexys 4 DDR in verilog and drivers in C for the same to support the microblaze architecture</li>
+                      <li>Implemented reception and transmission logic for the NIC with emaclite.</li>
+                    </ul></span>
+                  <span class="text-info small">Verilog HDL, Linux, C, Nexys 4 DDR, Xilinx Vivado</span></li><br>
                 <li>Mariadb eBPF exporter (Aug 2023, Sep 2023): <a href="https://github.com/Utkar5hM/mariadb-ebpf-exporter/">Github Link</a>
                 <span class="">
                   <ul style="list-style-type: '‣ ';padding-inline-start: 2ch;">
